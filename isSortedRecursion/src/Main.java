@@ -16,3 +16,4 @@ public class Main {
         System.out.println(isSorted(arr, 0));
         }
 }
+ 
