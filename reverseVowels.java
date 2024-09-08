@@ -1,4 +1,4 @@
-import java.util.*;
+
 class reverseVowels{
     public static void main(String args[]){
         String s = "hello";
